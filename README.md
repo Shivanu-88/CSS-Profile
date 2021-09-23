@@ -1,6 +1,9 @@
 # CSS-Profile
 An profile or personal site build with html and css
 
+The website can be viewed at : https://shivanu-88.github.io/CSS-Profile/
+
+
 # Screenshots of I/O
 
 <table style="width:100%">
